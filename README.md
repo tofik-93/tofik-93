@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi there, I'm Tofik Mifta 👋
+I'm a Fullstack Developer with a passion for building web and mobile applications that solve real-world problems. I love to explore new technologies and continuously improve my skills in software development.
 
-<!--
-**tofik-93/tofik-93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🌍 Based in Ethiopia
+- 🎓 Currently learning at Adama Science and Technology University
+- 👨‍💻 Working on web and mobile projects
+- 🌱 Always learning and staying up-to-date with the latest trends in web and mobile development
 
-Here are some ideas to get you started:
+## 🛠 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend Development
+- **Languages**: HTML, CSS, JavaScript, TypeScript
+- **Frameworks**: React, Next.js, Vue.js
+- **Styling**: Tailwind CSS, Bootstrap, Material-UI
+- **Tools**: Webpack, Babel, Vite
+
+### Backend Development
+- **Languages**: Node.js, Python, Java
+- **Frameworks**: Express.js, Nest.js, Django, Spring Boot
+- **Databases**: MongoDB, PostgreSQL, MySQL
+- **API**: REST, GraphQL
+
+### Mobile Development
+- **Languages**: Dart, JavaScript
+- **Frameworks**: Flutter, React Native
+## 📫 How to Reach Me
+- **Email**: tofikmifta97@gmail.com
+- **LinkedIn**: [linkedin.com/in/tofik-mifta-8856452b1](https://www.linkedin.com/in/tofik-mifta-8856452b1/)
+- **Twitter (X)**: [x.com/tofik_mifta](https://x.com/tofik_mifta)
