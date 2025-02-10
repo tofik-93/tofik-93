@@ -36,7 +36,7 @@ I'm a Fullstack Developer with a passion for building web and mobile application
 
 ## 🌱 Current Learning
 - Exploring **Blockchain** development with **Solidity**
-- Building **fullstack** projects using **Nest.js** and **Next.js**
+- Building **fullstack** projects using **Node.js** and **Next.js**
 
 ## 🧑‍💻 Latest Blog Posts
 If you'd like to stay updated with my work or read about the tech topics I'm passionate about, you can check out my latest blog posts:
