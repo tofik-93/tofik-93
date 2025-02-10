@@ -44,22 +44,7 @@ If you'd like to stay updated with my work or read about the tech topics I'm pas
 - [How I built my first Fullstack app with Next.js and Nest.js](#)
 - [Why Flutter is the future of mobile development](#)
 - [Exploring GraphQL: A better way to handle APIs](#)
-
-## 🛠 Tools & Technologies
-
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter">
-  <img src="https://img.shields.io/badge/Dart-00B2A9?style=flat-square&logo=dart&logoColor=white" alt="Dart">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
-</p>
-<!-- Copy-paste in your Readme.md file -->
+y-paste in your Readme.md file -->
 
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
