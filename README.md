@@ -1,7 +1,8 @@
 <div align="center">
   
 <!-- Animated Header with your name -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00a86b,100:013220&height=180&section=header&text=Tofik%20Mifta&fontSize=60&animation=fadeIn&fontColor=ffffff&desc=Fullstack%20Developer&descAlignY=75&descSize=20" alt="Header" />
+<img src="https://raw.githubusercontent.com/tofik-93/tofik-93/output/github-contribution-grid-snake.gif" alt="Animated Snake" width="90%" />
+type=waving&color=0:00a86b,100:013220&height=180&section=header&text=Tofik%20Mifta&fontSize=60&animation=fadeIn&fontColor=ffffff&desc=Fullstack%20Developer&descAlignY=75&descSize=20" alt="Header" />
 
 <!-- Professional tagline -->
 <h3>👨‍💻 Fullstack Developer | ASTU Graduate | Problem Solver</h3>
