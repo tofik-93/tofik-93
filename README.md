@@ -1,12 +1,13 @@
 <div align="center">
   
-<!-- Professional Header -->
-<img src="https://capsule-render.vercel.app/api?type=wavy&color=0:00a86b,100:013220&height=160&section=header&text=Tofik%20Mifta&fontSize=58&animation=fadeIn&fontColor=ffffff&desc=Fullstack%20Developer%20|%20ASTU%20Graduate&descAlignY=75&descSize=20" alt="Header" />
+<!-- Animated Header with your name -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00a86b,100:013220&height=180&section=header&text=Tofik%20Mifta&fontSize=60&animation=fadeIn&fontColor=ffffff&desc=Fullstack%20Developer&descAlignY=75&descSize=20" alt="Header" />
 
-<h3>💻 Fullstack Developer | Clean Code Advocate | Problem Solver</h3>
-<p>Crafting scalable web and mobile applications with modern technologies</p>
+<!-- Professional tagline -->
+<h3>👨‍💻 Fullstack Developer | ASTU Graduate | Problem Solver</h3>
+<p>Building efficient solutions with modern web & mobile technologies</p>
 
-<!-- Contact Badges -->
+<!-- Contact badges -->
 <p>
   <a href="https://www.linkedin.com/in/tofik-mifta-8856452b1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -30,42 +31,36 @@
 **Adama Science and Technology University (ASTU)** - Graduate  
 *Bachelor's Degree in Software Engineering/Computer Science*
 
-## 🚀 Professional Profile
-I'm a results-driven Fullstack Developer with a solid foundation from ASTU. I specialize in architecting and building efficient web and mobile applications that solve complex business problems. My development philosophy emphasizes clean architecture, scalability, and maintainability.
+## 🚀 About Me
+I'm a passionate Fullstack Developer from Ethiopia with a solid foundation from ASTU. I specialize in creating web and mobile applications that solve real-world problems. My approach combines clean code principles with cutting-edge technologies to deliver scalable and maintainable solutions.
 
-- 🌍 **Location**: Ethiopia
-- 🎓 **Education**: Bachelor's Degree, Adama Science and Technology University
-- 💼 **Expertise**: Fullstack web & mobile development, system architecture
-- 🧠 **Methodology**: Test-driven development, agile practices, CI/CD
-- 📈 **Focus**: Building scalable solutions with measurable business impact
+- 🌍 **Based in**: Ethiopia
+- 🎓 **Education**: Graduate of Adama Science and Technology University
+- 💡 **Focus**: Fullstack web & mobile development, scalable architecture
+- 🌱 **Mindset**: Continuous learner, always exploring new technologies
 
 ---
 
-## 🛠️ Technical Stack
+## 🛠️ Tech Stack
 
 ### **Frontend Development**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap,mui,redux" alt="Frontend Technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap,mui" alt="Frontend Technologies" />
 </p>
 
 ### **Backend Development**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,django,java,spring,graphql,redis" alt="Backend Technologies" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,django,java,spring,mongodb,postgresql,mysql,graphql" alt="Backend Technologies" />
 </p>
 
-### **Databases**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,prisma" alt="Database Technologies" />
-</p>
-
-### **Mobile & Cross-Platform**
+### **Mobile Development**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=flutter,dart,react" alt="Mobile Technologies" />
 </p>
 
-### **DevOps & Tools**
+### **Tools & Others**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,gcp,nginx,linux,vscode,figma" alt="DevOps Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,aws,nginx,linux,vscode" alt="Tools" />
 </p>
 
 ---
@@ -75,102 +70,90 @@ I'm a results-driven Fullstack Developer with a solid foundation from ASTU. I sp
 <div align="center">
   
 <!-- GitHub Stats -->
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=tofik-93&show_icons=true&theme=radical&hide_border=true&count_private=true&hide=prs&include_all_commits=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tofik-93&layout=compact&theme=radical&hide_border=true&langs_count=8" width="41.2%" alt="Top Languages" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=tofik-93&show_icons=true&theme=radical&hide_border=true&count_private=true&hide=prs" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tofik-93&layout=compact&theme=radical&hide_border=true" width="41.2%" />
 
 <!-- GitHub Streak -->
-<img src="https://streak-stats.demolab.com/?user=tofik-93&theme=radical&hide_border=true&fire=DD2727&currStreakNum=DD2727" width="48%" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=tofik-93&theme=radical&hide_border=true" width="48%" />
+
+<!-- Snake Animation (Binary Rain Effect) -->
+<img src="https://github.com/tofik-93/tofik-93/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" width="90%" />
 
 </div>
 
 ---
 
-## 🏆 Professional Projects
+## 🏆 Featured Projects
 
-### **E-commerce Platform** | [View Code](#)
-**Tech Stack**: Next.js 14 · Node.js · MongoDB · Tailwind CSS · Stripe  
-**Highlights**: 
-- Microservices architecture with containerized deployment
-- JWT authentication with role-based access control
-- Real-time inventory management and order processing
-- Responsive design with performance optimization
+### **Fullstack E-commerce Platform**
+**Tech**: Next.js · Node.js · MongoDB · Tailwind CSS  
+**Description**: Complete e-commerce solution with user authentication, product management, and payment integration.
 
-### **Enterprise Task Management** | [View Code](#)
-**Tech Stack**: Flutter · Firebase · BLoC · Hive Database  
-**Highlights**:
-- Offline-first architecture with automatic sync
-- Cross-platform compatibility (iOS, Android, Web)
-- Real-time collaboration features
-- Advanced analytics and reporting dashboard
+### **Mobile Task Management App**
+**Tech**: Flutter · Firebase · BLoC Pattern  
+**Description**: Cross-platform task manager with real-time sync and offline support.
 
-### **Secure Voting System** | [View Code](#)
-**Tech Stack**: Solidity · React · Web3.js · IPFS · Hardhat  
-**Highlights**:
-- Blockchain-based decentralized voting mechanism
-- Transparent and immutable voting records
-- Gas-optimized smart contracts with security audits
-- User-friendly interface with wallet integration
+### **Blockchain Voting System**
+**Tech**: Solidity · React · Web3.js  
+**Description**: Secure, transparent voting system built on blockchain technology.
 
 ---
 
-## 📈 Continuous Learning
-
-### **Current Focus Areas**
-- **Architecture**: Microservices patterns, event-driven systems, DDD
-- **Cloud**: Kubernetes orchestration, serverless architectures, multi-cloud strategies
-- **Performance**: Application optimization, load testing, monitoring
-- **Security**: Application security, penetration testing, compliance standards
-
-### **Professional Development Goals 2024**
-1. **Advanced System Design** - Master scalable architecture patterns
-2. **Cloud Certification** - AWS Solutions Architect Professional
-3. **Open Source Contribution** - Meaningful contributions to major projects
-4. **Technical Leadership** - Mentorship and knowledge sharing initiatives
+## 🌱 Currently Learning & Exploring
+- **Blockchain Development** with **Solidity** and smart contracts
+- **Microservices Architecture** using Docker and Kubernetes
+- **Cloud Native Applications** on AWS and Azure
+- **Advanced TypeScript Patterns** for scalable applications
+- **System Design** principles for high-performance applications
 
 ---
 
-## 🎯 Career Objectives
-1. **Technical Excellence** - Continuously refine skills in fullstack development and architecture
-2. **Impactful Solutions** - Build products that solve meaningful problems at scale
-3. **Knowledge Sharing** - Contribute to developer communities through writing and speaking
-4. **Business Alignment** - Develop technical solutions that drive measurable business value
+## 📈 GitHub Activity
+<!-- Activity Graph -->
+![Tofik's Activity Graph](https://activity-graph.herokuapp.com/graph?username=tofik-93&theme=github&hide_border=true&area=true)
 
 ---
 
-## 📝 Technical Writing & Thought Leadership
-*Current work in progress:*
-- **"Architecting Scalable Backends with NestJS"** - Best practices for enterprise applications
-- **"State Management in Modern Flutter Applications"** - Comparative analysis of patterns
-- **"Security-First Development Practices"** - Building resilient applications from the ground up
-- **"The Business Value of Clean Architecture"** - Connecting technical decisions to ROI
+## 🎯 Professional Goals
+1. **Contribute to Open Source** - Actively participate in meaningful projects
+2. **Master Fullstack Architecture** - Deep dive into scalable system design
+3. **Mentor Others** - Share knowledge with aspiring developers
+4. **Build Impactful Products** - Create solutions that make a difference
 
 ---
 
-## 📫 Professional Connections
+## 📝 Latest Blog Posts
+*Coming soon - I'm currently working on:*
+- "Building Scalable Backends with NestJS Microservices"
+- "Flutter vs React Native: A Practical Comparison"
+- "Implementing CI/CD for Modern Web Applications"
+
+---
+
+## 📫 Let's Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/tofik-mifta-8856452b1/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20Professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:tofikmifta97@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Collaborate-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://x.com/tofik_mifta" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
   <a href="https://github.com/tofik-93" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-View%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
 ---
 
 <div align="center">
+  
+<!-- Visitor Counter -->
+<img src="https://komarev.com/ghpvc/?username=tofik-93&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
-<!-- Professional Metrics -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=tofik-93&label=Professional%20Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views">
-</p>
-
-<!-- Closing Statement -->
-<p><em>Thank you for visiting my professional profile. Let's connect to discuss technology, innovation, and potential collaborations.</em></p>
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00a86b,100:013220&height=120&section=footer" alt="Footer" />
 
 </div>
